@@ -51,24 +51,24 @@ You'll also find some tips and links to documentations that will help you comple
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- .How to create a scatter matrix. New to me.
 
 **I struggled with:** (repeat as needed)
-- .
+- .Remembereing how to properly format a visualization using bins and figure size.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . customizing visualizations to be easier for displaying and understanding what a graph is trying to acomplish.
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+[4] hours.
 
 **How often did you have to check the solution to the problem? How do you feel about that?**
-
+Not often I was able to create most visualizations by reverting back to past resources and assignments.
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- . Review assignments from previous courses as they shared the same techniques.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [19] out of 20.
 
 --------------------
 ## 📚 References and Citations
